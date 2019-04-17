@@ -1,2 +1,2 @@
 # tatai
-Learning site
+This site here represents what Iam learning.
