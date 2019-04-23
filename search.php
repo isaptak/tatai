@@ -6,7 +6,15 @@
 <meta name="keywords" content="html tutorial template">
 </head>
 <body>
+
+	<p> You Searched For 
 <?php echo $_POST["query"]; ?>
-Content goes here.
+
+During
+<?php echo $_POST["time"]; ?>
+
+Sorted by
+<?php echo $_POST["sortingoption"]; ?>
+</p>
 </body>
 </html>
